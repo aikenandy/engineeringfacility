@@ -1,0 +1,25 @@
+/* custom-geosearch.css */
+
+.leaflet-control-geosearch {
+    background-color: #333; /* Change background color */
+    color: #fff; /* Change text color */
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+  
+  .leaflet-control-geosearch input {
+    background-color: #333; /* Change search bar background color */
+    color: #fff; /* Change search bar text color */
+  }
+  
+  .leaflet-control-geosearch .results {
+    background-color: #333; /* Change results background color */
+    color: #fff; /* Change results text color */
+  }
+  
+  .leaflet-control-geosearch .results .leaflet-geosearch-result {
+    background-color: #444; /* Change individual result background color */
+    color: #fff; /* Change individual result text color */
+  }
+  
